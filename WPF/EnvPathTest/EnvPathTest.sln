@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvPathTest", "EnvPathTest\EnvPathTest.csproj", "{3C0AA52D-D2DE-4EFD-A2CB-5610AC198661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C0AA52D-D2DE-4EFD-A2CB-5610AC198661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0AA52D-D2DE-4EFD-A2CB-5610AC198661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0AA52D-D2DE-4EFD-A2CB-5610AC198661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0AA52D-D2DE-4EFD-A2CB-5610AC198661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {325201E3-75B8-46E3-B0F5-4234DF01BFEB}
+	EndGlobalSection
+EndGlobal
