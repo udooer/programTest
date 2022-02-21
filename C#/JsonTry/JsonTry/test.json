@@ -1,0 +1,12 @@
+﻿{
+  "Book1": {
+    "title": "Broken hearts",
+    "genre": "Romance",
+    "price": "15"
+  },
+  "Book2": {
+    "title2": "Nothing in my life",
+    "genre2": "Guide",
+    "price2": "12"
+  }
+}

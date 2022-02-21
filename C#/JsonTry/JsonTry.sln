@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTry", "JsonTry\JsonTry.csproj", "{A5474091-3F3F-46E1-91E4-44686BC7A2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5474091-3F3F-46E1-91E4-44686BC7A2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5474091-3F3F-46E1-91E4-44686BC7A2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5474091-3F3F-46E1-91E4-44686BC7A2BB}.Debug|x64.ActiveCfg = Debug|x64
+		{A5474091-3F3F-46E1-91E4-44686BC7A2BB}.Debug|x64.Build.0 = Debug|x64
+		{A5474091-3F3F-46E1-91E4-44686BC7A2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5474091-3F3F-46E1-91E4-44686BC7A2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5474091-3F3F-46E1-91E4-44686BC7A2BB}.Release|x64.ActiveCfg = Release|x64
+		{A5474091-3F3F-46E1-91E4-44686BC7A2BB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86E0BCF8-979F-49C6-82B8-B061DF902AF4}
+	EndGlobalSection
+EndGlobal
