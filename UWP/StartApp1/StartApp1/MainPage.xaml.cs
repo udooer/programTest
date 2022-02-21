@@ -46,5 +46,10 @@ namespace StartApp1
             var updater = BadgeUpdateManager.CreateBadgeUpdaterForApplication();
             updater.Update(badge);
         }
+
+        private void OnClick(object sender, RoutedEventArgs e)
+        {
+            setBadgeNumber(show.Text);
+        }
     }
 }

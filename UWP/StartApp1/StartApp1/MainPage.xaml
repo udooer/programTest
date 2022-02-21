@@ -9,7 +9,10 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
     Loaded="OnWindowLoaded">
 
-    <Grid>
-
+    <Grid >
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button  Width="150" Height="50" Click="OnClick"></Button>
+            <TextBox Width="150" Height="50" x:Name="show" Margin="0 20 0 0"></TextBox>
+        </StackPanel>
     </Grid>
 </Page>
