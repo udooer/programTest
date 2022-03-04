@@ -1,0 +1,1561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="_0_1_1" xml:space="preserve">
+    <value>https://support.apple.com/kb/DL2065?locale=zh_TW</value>
+  </data>
+  <data name="_0_1_2" xml:space="preserve">
+    <value>https://account.asus.com/info.aspx</value>
+  </data>
+  <data name="_0_1_3" xml:space="preserve">
+    <value>https://www.asus.com/me-ar/support/FAQ/1046842/</value>
+  </data>
+  <data name="_0_1_4" xml:space="preserve">
+    <value>https://www.asus.com/me-ar/support/FAQ/1046841/</value>
+  </data>
+  <data name="_0_1_5" xml:space="preserve">
+    <value>https://www.asus.com/me-ar/support/FAQ/1046845/</value>
+  </data>
+  <data name="_0_1_6" xml:space="preserve">
+    <value>https://www.asus.com/me-ar/support/FAQ/1045492</value>
+  </data>
+  <data name="_0_1_7" xml:space="preserve">
+    <value>https://www.asus.com/support/FAQ/1046840/</value>
+  </data>
+  <data name="_0_1_8" xml:space="preserve">
+    <value>https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</value>
+  </data>
+  <data name="_0_1_9" xml:space="preserve">
+    <value>https://service.asuswebstorage.com/privacy/</value>
+  </data>
+  <data name="_0_1_10" xml:space="preserve">
+    <value>https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Official-Site/</value>
+  </data>
+  <data name="_0_1_11" xml:space="preserve">
+    <value>ms-windows-store://review/?ProductId=9PLH2SV1DVK5</value>
+  </data>
+  <data name="_0_1_12" xml:space="preserve">
+    <value>https://acc-account.asus.com.cn/Account/Register</value>
+  </data>
+  <data name="_0_1_13" xml:space="preserve">
+    <value>https://policies.google.com/technologies/partner-sites?hl=en </value>
+  </data>
+  <data name="_0_1_14" xml:space="preserve">
+    <value>https://www.asus.com/support/contact/Serviceflow/MailUs?serviceType=4</value>
+  </data>
+  <data name="_0_1_15" xml:space="preserve">
+    <value>https://www.asus.com/me-ar/support/FAQ/1046843/</value>
+  </data>
+  <data name="_0_1_16" xml:space="preserve">
+    <value>https://www.asus.com/me-ar/support/FAQ/1046846/</value>
+  </data>
+  <data name="_0_1_17" xml:space="preserve">
+    <value>https://www.asus.com/support/FAQ/1046844</value>
+  </data>
+  <data name="_0_1_18" xml:space="preserve">
+    <value>https://www.youtube.com/watch?v=VdBPiQqlI9Y</value>
+  </data>
+  <data name="_1_1_1" xml:space="preserve">
+    <value>مرحبًا بك في</value>
+  </data>
+  <data name="_1_1_2" xml:space="preserve">
+    <value>مساحة عملك ولعبك المتنقلة.</value>
+  </data>
+  <data name="_1_1_3" xml:space="preserve">
+    <value>تسجيل الدخول للحساب</value>
+  </data>
+  <data name="_1_1_4" xml:space="preserve">
+    <value>عنوان البريد الإلكتروني</value>
+  </data>
+  <data name="_1_1_5" xml:space="preserve">
+    <value>كلمة المرور</value>
+  </data>
+  <data name="_1_1_6" xml:space="preserve">
+    <value>هل نسيت كلمة المرور؟</value>
+  </data>
+  <data name="_1_1_7" xml:space="preserve">
+    <value>تسجيل دخول</value>
+  </data>
+  <data name="_1_1_8" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_1_1_9" xml:space="preserve">
+    <value>الاشتراك بالعضوية</value>
+  </data>
+  <data name="_1_1_10" xml:space="preserve">
+    <value>اشترك الآن للحصول على أفضل تجربة لـ GlideX.</value>
+  </data>
+  <data name="_1_1_11" xml:space="preserve">
+    <value>الحساب: البريد الإلكتروني الخاص بك</value>
+  </data>
+  <data name="_1_1_12" xml:space="preserve">
+    <value>كلمة المرور: يجب أن يكون  8~25 حرفًا.</value>
+  </data>
+  <data name="_1_1_13" xml:space="preserve">
+    <value>تأكيد كلمة المرور</value>
+  </data>
+  <data name="_1_1_14" xml:space="preserve">
+    <value>تاريخ الميلاد</value>
+  </data>
+  <data name="_1_1_15" xml:space="preserve">
+    <value>حدد تاريخًا</value>
+  </data>
+  <data name="_1_1_16" xml:space="preserve">
+    <value>المنطقة</value>
+  </data>
+  <data name="_1_1_17" xml:space="preserve">
+    <value>تذكر حسابي على هذا الجهاز</value>
+  </data>
+  <data name="_1_1_18" xml:space="preserve">
+    <value>*أقر وأوافق على  ASUS &lt;%PP%&gt;</value>
+  </data>
+  <data name="_1_1_19" xml:space="preserve">
+    <value>*أقر وأوافق على  ASUS Cloud &lt;%PP%&gt;</value>
+  </data>
+  <data name="_1_1_20" xml:space="preserve">
+    <value>سياسة الخصوصية</value>
+  </data>
+  <data name="_1_1_21" xml:space="preserve">
+    <value>أبقني مطلعًا على أخبار ASUS وتحديثات البرامج وأحدث المنتجات ومعلومات الخدمات.</value>
+  </data>
+  <data name="_1_1_22" xml:space="preserve">
+    <value>أبقني على اطلاع من خلال eDMs وإشعار أخبار متجر ويب ASUS ، بأحدث معلومات المنتجات والخدمات.</value>
+  </data>
+  <data name="_1_1_23" xml:space="preserve">
+    <value>من فضلك لا تقلق جميع المعلومات التي يتم تجميعها سيتم استخدامها فقط لغرض تسجيل وإدارة حساباتك.
+بمجرد تسجيل حسابك بنجاح، سوف نساعدك أيضاً في التسجيل كعضو سحابة ASUS مملوك بواسطة شركة سحابة ASUS بنفس الحساب وكلمة السر.
+</value>
+  </data>
+  <data name="_1_1_24" xml:space="preserve">
+    <value>تسجيل الدخول</value>
+  </data>
+  <data name="_1_1_25" xml:space="preserve">
+    <value>لديك حساب بالفعل؟</value>
+  </data>
+  <data name="_1_1_26" xml:space="preserve">
+    <value>عنوان البريد الإلكتروني</value>
+  </data>
+  <data name="_1_1_27" xml:space="preserve">
+    <value>التحويل إلى GlideX</value>
+  </data>
+  <data name="_1_1_28" xml:space="preserve">
+    <value>التحويل إلى &lt;%اسم SC %&gt; (GlideX)</value>
+  </data>
+  <data name="_1_1_29" xml:space="preserve">
+    <value>احصل على GlideX  لجهازك المحمول.</value>
+  </data>
+  <data name="_1_1_30" xml:space="preserve">
+    <value>ثبت GlideX على أجهزة متعددة للوصول والاستخدام السهل والسريع له عبر أجهزة متنوعة.</value>
+  </data>
+  <data name="_1_1_31" xml:space="preserve">
+    <value>امسح كود QR أعلاه لتنزيل تطبيق المحمول GlideX.</value>
+  </data>
+  <data name="_1_1_32" xml:space="preserve">
+    <value>رجوع </value>
+  </data>
+  <data name="_1_1_33" xml:space="preserve">
+    <value>التالي</value>
+  </data>
+  <data name="_1_1_34" xml:space="preserve">
+    <value>سجل دخولك إلى تطبيق المحمول من خلال كود الاستجابة السريعة الموجود على اليمين.</value>
+  </data>
+  <data name="_1_1_35" xml:space="preserve">
+    <value>استخدم الكاميرا الموجودة داخل تطبيق GlideX على جهازك المحمول لمسح كود الاستجابة السريعة الخاص بـ GlideX الموجود على حاسوبك الشخصي.</value>
+  </data>
+  <data name="_1_1_36" xml:space="preserve">
+    <value>بدء التشغيل</value>
+  </data>
+  <data name="_1_1_37" xml:space="preserve">
+    <value>حساب و/أو كلمة مرور غير صحيحة</value>
+  </data>
+  <data name="_1_1_38" xml:space="preserve">
+    <value>أدخل عنوان بريدك الإلكتروني.</value>
+  </data>
+  <data name="_1_1_39" xml:space="preserve">
+    <value>خطأ بصيغة عنوان البريد الإلكتروني.</value>
+  </data>
+  <data name="_1_1_40" xml:space="preserve">
+    <value>لقد تم تسجيل عنوان البريد الإلكتروني هذا بالفعل.</value>
+  </data>
+  <data name="_1_1_41" xml:space="preserve">
+    <value>أدخل كلمة المرور.</value>
+  </data>
+  <data name="_1_1_42" xml:space="preserve">
+    <value>أنشئ كلمة مرور مكونة من 8~25 حرفًا.</value>
+  </data>
+  <data name="_1_1_43" xml:space="preserve">
+    <value>لا تتطابق كلمات المرور. حاول مرة أخرى.</value>
+  </data>
+  <data name="_1_1_44" xml:space="preserve">
+    <value>حدد تاريخ ميلادك.</value>
+  </data>
+  <data name="_1_1_45" xml:space="preserve">
+    <value>يجب أن توافق على سياسة الخصوصية الواردة أعلاه للتسجيل.</value>
+  </data>
+  <data name="_1_1_46" xml:space="preserve">
+    <value>مرحبًا بكم في  GlideX</value>
+  </data>
+  <data name="_1_1_47" xml:space="preserve">
+    <value>تنزيل</value>
+  </data>
+  <data name="_1_1_48" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_1_1_49" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_1_1_50" xml:space="preserve">
+    <value>نأسف لعدم تمكنك من التسجيل كعضو، لأنك لا تستوفي الحد الأدنى للسن المطلوب.</value>
+  </data>
+  <data name="_1_1_51" xml:space="preserve">
+    <value>حدد منطقتك.</value>
+  </data>
+  <data name="_1_1_52" xml:space="preserve">
+    <value>تسجيل الدخول لاحقًا</value>
+  </data>
+  <data name="_1_1_53" xml:space="preserve">
+    <value>اختر حسابًا لتسجيل الدخول إليه</value>
+  </data>
+  <data name="_1_1_54" xml:space="preserve">
+    <value>إضافة حساب آخر</value>
+  </data>
+  <data name="_1_1_55" xml:space="preserve">
+    <value>تذكر حسابي على هذا الجهاز</value>
+  </data>
+  <data name="_1_1_56" xml:space="preserve">
+    <value>لديّ حساب</value>
+  </data>
+  <data name="_1_1_57" xml:space="preserve">
+    <value>تم تسجيل الدخول بنجاح من خلال Google. انقر هنا لمتابعة استخدام GlideX.</value>
+  </data>
+  <data name="_1_1_58" xml:space="preserve">
+    <value>here</value>
+  </data>
+  <data name="_1_2_1" xml:space="preserve">
+    <value>تسجيل الخروج من GlideX</value>
+  </data>
+  <data name="_1_2_2" xml:space="preserve">
+    <value>لن تضطر لتسجيل الخروج في كل مرة. حافظ على وضع تسجيل الدخول لـ GlideX لتحقيق اقصى استفادة من الخدمة.</value>
+  </data>
+  <data name="_1_2_3" xml:space="preserve">
+    <value>رقم هاتفك/بريدك الإلكتروني</value>
+  </data>
+  <data name="_1_2_4" xml:space="preserve">
+    <value>يرجى التحديد وفقًا لموقعك الحالي.</value>
+  </data>
+  <data name="_1_2_5" xml:space="preserve">
+    <value>إذا كنت تتواجد بالصين, يرجى تحديد "خدمة الصين" للوصول إلى مجموعتنا الشاملة من الخدمات.</value>
+  </data>
+  <data name="_1_2_6" xml:space="preserve">
+    <value>خدمة الصين</value>
+  </data>
+  <data name="_1_2_7" xml:space="preserve">
+    <value>الخدمة العالمية</value>
+  </data>
+  <data name="_2_1_1" xml:space="preserve">
+    <value>الرئيسية</value>
+  </data>
+  <data name="_2_1_2" xml:space="preserve">
+    <value>ادمج بسلاسة حاسوبك الشخصي مع أجهزتك المحمولة للتمكن من القيام بمهام متعددة أينما تذهب؛ مما يزيد بدوره من إنتاجيتك.</value>
+  </data>
+  <data name="_2_1_3" xml:space="preserve">
+    <value>انعكاس</value>
+  </data>
+  <data name="_2_1_4" xml:space="preserve">
+    <value>عرض الشاشة على عدة أجهزة</value>
+  </data>
+  <data name="_2_1_5" xml:space="preserve">
+    <value>وصّل جهاز</value>
+  </data>
+  <data name="_2_1_6" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_2_1_7" xml:space="preserve">
+    <value>تثبيت تطبيق المحمول</value>
+  </data>
+  <data name="_2_1_8" xml:space="preserve">
+    <value>ثبت تطبيق المحمول GlideX</value>
+  </data>
+  <data name="_2_1_9" xml:space="preserve">
+    <value> GlideX لم يتم تثبيته بعد؟ امسح كود الاستجابة السريعة مسحًا ضوئيًا بجهازك المحمول لتنزيل GlideX وبدء تشغيله على جهازك المحمول.</value>
+  </data>
+  <data name="_2_1_10" xml:space="preserve">
+    <value>فهمت</value>
+  </data>
+  <data name="_2_1_11" xml:space="preserve">
+    <value>البحث عن الأجهزة المتصلة بنفس  WiFi/نقطة الوصول السريع أو عبر كبلات USB </value>
+  </data>
+  <data name="_2_1_12" xml:space="preserve">
+    <value>ألا ترى الجهاز الذي تبحث عنه؟</value>
+  </data>
+  <data name="_2_1_13" xml:space="preserve">
+    <value>إلغاء</value>
+  </data>
+  <data name="_2_1_14" xml:space="preserve">
+    <value>عكس الشاشة على &lt;%Device%&gt;</value>
+  </data>
+  <data name="_2_1_15" xml:space="preserve">
+    <value>تمديد العرض من &lt;%Device%&gt;</value>
+  </data>
+  <data name="_2_1_16" xml:space="preserve">
+    <value>عذرًا! تم رفض طلبك من قِبل &lt;٪ Device٪&gt;.</value>
+  </data>
+  <data name="_2_1_17" xml:space="preserve">
+    <value>حسنًا ... لم يجيب &lt;٪ Device٪&gt; على طلبك.</value>
+  </data>
+  <data name="_2_1_18" xml:space="preserve">
+    <value>تم رفض الطلب</value>
+  </data>
+  <data name="_2_1_19" xml:space="preserve">
+    <value>لا توجد استجابة</value>
+  </data>
+  <data name="_2_1_20" xml:space="preserve">
+    <value>فشل الاتصال</value>
+  </data>
+  <data name="_2_1_21" xml:space="preserve">
+    <value>جارٍ الاتصال... تحقق من طلب الاتصال ووافق عليه على الجهاز المحدد.</value>
+  </data>
+  <data name="_2_1_22" xml:space="preserve">
+    <value>متصل</value>
+  </data>
+  <data name="_2_1_23" xml:space="preserve">
+    <value>الاشتراك لتمكين اتصال USB</value>
+  </data>
+  <data name="_2_1_24" xml:space="preserve">
+    <value>شاهد الإعلانات لتجربة مجانية USB أو سجل دخولك لتطبيق المحمول خاصتك للوصول إلى اشتراكك</value>
+  </data>
+  <data name="_2_1_25" xml:space="preserve">
+    <value>موصل بـ</value>
+  </data>
+  <data name="_2_1_26" xml:space="preserve">
+    <value>هل تود استخدام اتصال USB?</value>
+  </data>
+  <data name="_2_1_27" xml:space="preserve">
+    <value>لتمكين مشاركة الشاشة عبر كبل USB, يرجى تثبيت تطبيق iTunes لنظام التشغيل Windows (Windows 64 بت). </value>
+  </data>
+  <data name="_2_1_28" xml:space="preserve">
+    <value>لا تعرض مرة أخرى</value>
+  </data>
+  <data name="_2_1_29" xml:space="preserve">
+    <value>التثبيت الآن</value>
+  </data>
+  <data name="_2_1_30" xml:space="preserve">
+    <value>الجهاز قيد الاستخدام. المحاولة مرة أخرى لاحقًا.</value>
+  </data>
+  <data name="_2_1_31" xml:space="preserve">
+    <value>اعرض شاشة جهازك المحمول على شاشة حاسوبك.</value>
+  </data>
+  <data name="_2_1_32" xml:space="preserve">
+    <value>استخدم جهازك المحمول كشاشة ثانوية.</value>
+  </data>
+  <data name="_2_1_33" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_2_1_34" xml:space="preserve">
+    <value>اضبط جودة البث بناءً على حالة الاتصال لديك.</value>
+  </data>
+  <data name="_2_1_35" xml:space="preserve">
+    <value>الوضع الديناميكي</value>
+  </data>
+  <data name="_2_1_36" xml:space="preserve">
+    <value>الوضع اليدوي</value>
+  </data>
+  <data name="_2_1_37" xml:space="preserve">
+    <value>معياري</value>
+  </data>
+  <data name="_2_1_38" xml:space="preserve">
+    <value>عالية الدقة</value>
+  </data>
+  <data name="_2_1_39" xml:space="preserve">
+    <value>دقة عالية بالكامل</value>
+  </data>
+  <data name="_2_1_40" xml:space="preserve">
+    <value>أصلية</value>
+  </data>
+  <data name="_2_1_41" xml:space="preserve">
+    <value>شبكة الإنترنت:</value>
+  </data>
+  <data name="_2_1_42" xml:space="preserve">
+    <value>نطاق الشبكة:</value>
+  </data>
+  <data name="_2_1_43" xml:space="preserve">
+    <value>عدد الأجهزة المتصلة:</value>
+  </data>
+  <data name="_2_1_44" xml:space="preserve">
+    <value>معرفة المزيد</value>
+  </data>
+  <data name="_2_1_45" xml:space="preserve">
+    <value>افتح تطبيق  GlideX mobile وقم بتمكين إذن قابلية الاكتشاف في  Settings &gt; General &gt; Discoverability &gt;  شاشة النسخ المتطابق</value>
+  </data>
+  <data name="_2_1_46" xml:space="preserve">
+    <value>افتح تطبيق  GlideX mobile وقم بتمكين إذن قابلية الاكتشاف في  Settings &gt; General &gt; Discoverability &gt; Screen Extend</value>
+  </data>
+  <data name="_2_1_47" xml:space="preserve">
+    <value>وافق على الطلب بالجهاز المحدد</value>
+  </data>
+  <data name="_2_1_48" xml:space="preserve">
+    <value>جارِ التحديث</value>
+  </data>
+  <data name="_2_1_49" xml:space="preserve">
+    <value>لتجربة مثالية للمستخدم؛ تأكد من تحديث GlideX على أحدث إصدار.</value>
+  </data>
+  <data name="_2_1_50" xml:space="preserve">
+    <value>التحديثات الجديدة</value>
+  </data>
+  <data name="_2_1_51" xml:space="preserve">
+    <value>أعي ذلك</value>
+  </data>
+  <data name="_2_1_52" xml:space="preserve">
+    <value>توصيل</value>
+  </data>
+  <data name="_2_1_53" xml:space="preserve">
+    <value>الاشتراك من جهاز محمول للوصول لمزايا جديدة, تشمل الاتصال من خلال USB.</value>
+  </data>
+  <data name="_2_2_1" xml:space="preserve">
+    <value>علامة تجارية جديدة لإلهام سطح المكتب</value>
+  </data>
+  <data name="_2_2_2" xml:space="preserve">
+    <value>* خدمة الاشتراك متاحة فقط في مناطق معينة. </value>
+  </data>
+  <data name="_2_2_3" xml:space="preserve">
+    <value>ثبت الخدمات المهمة للاستمرار في استخدام GlideX.</value>
+  </data>
+  <data name="_2_2_4" xml:space="preserve">
+    <value>زامن حسابك مع خادم GlideX, اختر زر "refresh" ("تنشيط") للمحاولة مرة أخرى.</value>
+  </data>
+  <data name="_2_2_5" xml:space="preserve">
+    <value>تثبيت</value>
+  </data>
+  <data name="_2_2_6" xml:space="preserve">
+    <value>تحديث</value>
+  </data>
+  <data name="_2_3_1" xml:space="preserve">
+    <value>لتجربة مشاركة شاشة أفضل؛ تحول إلى نطاق شبكة  5 جيجا هرتز على الأقل.</value>
+  </data>
+  <data name="_2_3_2" xml:space="preserve">
+    <value>تصغير</value>
+  </data>
+  <data name="_2_3_3" xml:space="preserve">
+    <value>تكبير</value>
+  </data>
+  <data name="_2_3_4" xml:space="preserve">
+    <value>إغلاق</value>
+  </data>
+  <data name="_2_3_5" xml:space="preserve">
+    <value>استعادة</value>
+  </data>
+  <data name="_2_3_6" xml:space="preserve">
+    <value>احصل على طريقتين للاتصال</value>
+  </data>
+  <data name="_2_3_7" xml:space="preserve">
+    <value>اتصل مستخدمًا Wi-Fi لسهولة الحركة والتنقل وكبل USB لتجربة أفضل.</value>
+  </data>
+  <data name="_2_3_8" xml:space="preserve">
+    <value>عذرًا! GlideX غير متاح</value>
+  </data>
+  <data name="_2_3_9" xml:space="preserve">
+    <value>يتعذر على GlideX دعم الأجهزة العاملة بنظام التشغيل  Windows في وضع S.</value>
+  </data>
+  <data name="_2_3_10" xml:space="preserve">
+    <value>تنزيل باقة تطبيق 多屏中心 (GlideX) Android.</value>
+  </data>
+  <data name="_2_3_11" xml:space="preserve">
+    <value>لا يوجد اتصال بالإنترنت. حاول مرة أخرى لاحقًا.</value>
+  </data>
+  <data name="_2_3_12" xml:space="preserve">
+    <value>(480p30)</value>
+  </data>
+  <data name="_2_3_13" xml:space="preserve">
+    <value>(720p30)</value>
+  </data>
+  <data name="_2_3_14" xml:space="preserve">
+    <value>(1080p60)</value>
+  </data>
+  <data name="_2_3_15" xml:space="preserve">
+    <value>(2K60)</value>
+  </data>
+  <data name="_2_3_16" xml:space="preserve">
+    <value>فشل الاتصال. تحقق من كبل Wi-Fi و/أو USB وحاول مرة أخرى.</value>
+  </data>
+  <data name="_2_3_17" xml:space="preserve">
+    <value>(الاشتراك)</value>
+  </data>
+  <data name="_2_3_18" xml:space="preserve">
+    <value>(وقت محدود)</value>
+  </data>
+  <data name="_2_3_19" xml:space="preserve">
+    <value>سجل دخولك الآن للاستفادة القصوى من تجربة  GlideX.</value>
+  </data>
+  <data name="_2_3_20" xml:space="preserve">
+    <value>سجل دخولك على نفس الحساب على تطبيق المحمول GlideX للاستفادة القصوى من الخدمة.</value>
+  </data>
+  <data name="_2_3_21" xml:space="preserve">
+    <value>التحديث جاهز للتثبيت</value>
+  </data>
+  <data name="_2_3_22" xml:space="preserve">
+    <value>للاستفادة القصوى من GlideX, يرجى إبقاء GlideX محدثًا.</value>
+  </data>
+  <data name="_2_3_23" xml:space="preserve">
+    <value>لا يوجد</value>
+  </data>
+  <data name="_2_3_24" xml:space="preserve">
+    <value>زائر</value>
+  </data>
+  <data name="_2_3_25" xml:space="preserve">
+    <value>ألا يمكنك العثور على أجهزة تعمل بنظام Android؟</value>
+  </data>
+  <data name="_2_3_26" xml:space="preserve">
+    <value>الخطوة قم بتمكين 'تصحيح أخطاء USB للسماح لك بتوصيل أجهزتك عبر كابل USB.</value>
+  </data>
+  <data name="_2_3_27" xml:space="preserve">
+    <value>ألا يمكنك العثور على أجهزة تعمل بنظام iOS؟</value>
+  </data>
+  <data name="_2_3_28" xml:space="preserve">
+    <value>الاتصال بنفس شبكة Wi-Fi أو نقطة الاتصال.
+</value>
+  </data>
+  <data name="_2_3_29" xml:space="preserve">
+    <value>لتمكين مشاركة الشاشة عبر كبل USB, يرجى تثبيت تطبيق iTunes لنظام التشغيل Windows (Windows 64 بت). </value>
+  </data>
+  <data name="_2_3_30" xml:space="preserve">
+    <value>يرجى إعادة تشغيل النظام للتأكد من عمل الوظائف بشكل سليم.</value>
+  </data>
+  <data name="_2_3_31" xml:space="preserve">
+    <value>الجودة القياسية</value>
+  </data>
+  <data name="_2_3_32" xml:space="preserve">
+    <value>جودة البث HD</value>
+  </data>
+  <data name="_2_3_33" xml:space="preserve">
+    <value>جودة البث FHD</value>
+  </data>
+  <data name="_2_3_34" xml:space="preserve">
+    <value>جودة أصلية</value>
+  </data>
+  <data name="_2_3_35" xml:space="preserve">
+    <value>جهاز محمول أ متصل</value>
+  </data>
+  <data name="_2_3_36" xml:space="preserve">
+    <value>جهازان محمولان متصلان في نفس لوقت</value>
+  </data>
+  <data name="_2_3_37" xml:space="preserve">
+    <value>توصيلات Wi-Fi وUSB</value>
+  </data>
+  <data name="_2_3_38" xml:space="preserve">
+    <value>قم بتنزيل GlideX من متجر Google Play.</value>
+  </data>
+  <data name="_2_3_39" xml:space="preserve">
+    <value>عليك استخدام كبل إضاءة معتمد من Apple أو MFiلتوصيل هاتف Apple iPhone أو iPad بحاسوبك الشخصي.</value>
+  </data>
+  <data name="_2_3_40" xml:space="preserve">
+    <value>افتح تطبيق المحمول GlideX لجعل جهازك قابل للاكتشاف حتى يتم العثور عليه بواسطة حاسوبك الشخصي.</value>
+  </data>
+  <data name="_2_3_41" xml:space="preserve">
+    <value>قم بتمكين إذن قابلية الاكتشاف في Settings &gt; General &gt; Discoverability &gt; Screen Mirror.</value>
+  </data>
+  <data name="_2_3_42" xml:space="preserve">
+    <value>قم بتمكين إذن قابلية الاكتشاف في Settings &gt; General &gt; Discoverability &gt; Screen Extend.</value>
+  </data>
+  <data name="_2_3_43" xml:space="preserve">
+    <value>إعادة ترتيب الشاشة</value>
+  </data>
+  <data name="_2_3_44" xml:space="preserve">
+    <value>اضغط مع الاستمرارعلى إحدى الشاشات,  ثم اسحبها لترتيبها.</value>
+  </data>
+  <data name="_2_3_45" xml:space="preserve">
+    <value>التعريف</value>
+  </data>
+  <data name="_2_3_46" xml:space="preserve">
+    <value>تطبيق</value>
+  </data>
+  <data name="_2_3_47" xml:space="preserve">
+    <value>الإنبثاق تلقائيًا عندما تكون الأجهزة المحمولة متصلة.</value>
+  </data>
+  <data name="_2_3_48" xml:space="preserve">
+    <value>هل تستمتع بـ GlideX?</value>
+  </data>
+  <data name="_2_3_49" xml:space="preserve">
+    <value>إذا كنت تحب استخدام GlideX, يرجى دعمنا من خلال التقييم على متجر Microsoft Store.</value>
+  </data>
+  <data name="_2_3_50" xml:space="preserve">
+    <value>لا, شكرًا</value>
+  </data>
+  <data name="_2_4_1" xml:space="preserve">
+    <value>(720p30*)</value>
+  </data>
+  <data name="_2_4_2" xml:space="preserve">
+    <value>(1080p60*)</value>
+  </data>
+  <data name="_2_4_3" xml:space="preserve">
+    <value>(2K60**)</value>
+  </data>
+  <data name="_2_4_4" xml:space="preserve">
+    <value>*حدد درجة الدقة ومعدل التنشيط المرغوبين. لاحظ أن الأداء الفعلي يعتمد على الشبكة ومقدرة الجهاز لديك.</value>
+  </data>
+  <data name="_2_4_5" xml:space="preserve">
+    <value>** وفقًا للشبكة ومقدرة الجهاز لديك, يمكن أن يكون معدل التنشيط ودرجة الدقة للجودة الأصلية أعلى من 2K60.</value>
+  </data>
+  <data name="_2_4_6" xml:space="preserve">
+    <value>قم بتشغيل تطبيقاتك المحمولة المفضلة لديك على شاشة أكبر من خلال الانعكاس.</value>
+  </data>
+  <data name="_2_4_7" xml:space="preserve">
+    <value>للاستقرار؛ صل أجهزة iOS من خلال كبلات  USB.</value>
+  </data>
+  <data name="_2_4_8" xml:space="preserve">
+    <value>احصل على &lt;%GlideX App Name%&gt; Pro من خلال تسجيل حاسوب ASUS الشخصي المحدد</value>
+  </data>
+  <data name="_3_1_1" xml:space="preserve">
+    <value>مركز المستخدم</value>
+  </data>
+  <data name="_3_1_2" xml:space="preserve">
+    <value>تسجيل الدخول للمحمول</value>
+  </data>
+  <data name="_3_1_3" xml:space="preserve">
+    <value>ترك تعقيب</value>
+  </data>
+  <data name="_3_1_4" xml:space="preserve">
+    <value>تعديل</value>
+  </data>
+  <data name="_3_1_5" xml:space="preserve">
+    <value>تسجيل الخروج</value>
+  </data>
+  <data name="_3_1_6" xml:space="preserve">
+    <value>تفاصيل الخطة الحالية</value>
+  </data>
+  <data name="_3_1_7" xml:space="preserve">
+    <value>اختيار خطة</value>
+  </data>
+  <data name="_3_1_8" xml:space="preserve">
+    <value>احصل علىGlideX من متجر Google Play أو Apple App Store.</value>
+  </data>
+  <data name="_3_1_9" xml:space="preserve">
+    <value>امسح كود الاستجابة السريعة مسحًا ضوئيًا بهاتفك المحمول. </value>
+  </data>
+  <data name="_3_1_10" xml:space="preserve">
+    <value>حذف الإعلانات لزيادة الإنتاجية</value>
+  </data>
+  <data name="_3_1_11" xml:space="preserve">
+    <value>الترقية إلى GlideX Ultra الآن! الاشتراك عبر تطبيق المحمول GlideX من متجر Google Play أو Apple App Store.</value>
+  </data>
+  <data name="_3_1_12" xml:space="preserve">
+    <value>الاشتراك من محمول</value>
+  </data>
+  <data name="_3_1_13" xml:space="preserve">
+    <value>ليس الآن</value>
+  </data>
+  <data name="_3_1_14" xml:space="preserve">
+    <value>اشترك من جهازك المحمول بنفس الحساب</value>
+  </data>
+  <data name="_3_1_15" xml:space="preserve">
+    <value>للاشتراك؛ امسح كود QR الموجود على اليمين بالكاميرا الموجودة داخل تطبيق GlideX الموجود على جهازك المحمول.</value>
+  </data>
+  <data name="_3_1_16" xml:space="preserve">
+    <value>Plus</value>
+  </data>
+  <data name="_3_1_17" xml:space="preserve">
+    <value>Pro</value>
+  </data>
+  <data name="_3_1_18" xml:space="preserve">
+    <value>Ultra</value>
+  </data>
+  <data name="_3_1_19" xml:space="preserve">
+    <value>قم بالنسخ التطابقي لشاشة الهاتف أو تمديدها</value>
+  </data>
+  <data name="_3_1_20" xml:space="preserve">
+    <value>اتصال Wi-Fi </value>
+  </data>
+  <data name="_3_1_21" xml:space="preserve">
+    <value>توصيلات Wi-Fi وUSB</value>
+  </data>
+  <data name="_3_1_22" xml:space="preserve">
+    <value>لا توجد اضطرابات في الإعلانات</value>
+  </data>
+  <data name="_3_1_23" xml:space="preserve">
+    <value>قم بالنسخ التطابقي لشاشة الهاتف أو تمديدها لجهازين محمولين في آن واحد</value>
+  </data>
+  <data name="_3_1_24" xml:space="preserve">
+    <value>إلغاء الخطة</value>
+  </data>
+  <data name="_3_1_28" xml:space="preserve">
+    <value>منصة الاشتراك:</value>
+  </data>
+  <data name="_3_1_29" xml:space="preserve">
+    <value>تاريخ التجديد:</value>
+  </data>
+  <data name="_3_1_30" xml:space="preserve">
+    <value>الخطة الحالية</value>
+  </data>
+  <data name="_3_1_31" xml:space="preserve">
+    <value>مجاني</value>
+  </data>
+  <data name="_3_1_32" xml:space="preserve">
+    <value>مشترك بالفعل؟ تسجيل الدخول إلى GlideX.</value>
+  </data>
+  <data name="_3_1_33" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_3_1_34" xml:space="preserve">
+    <value>جرب جودة البث الأساسية</value>
+  </data>
+  <data name="_3_1_35" xml:space="preserve">
+    <value>لجودة بث أفضل والوضع الديناميكي</value>
+  </data>
+  <data name="_3_1_36" xml:space="preserve">
+    <value>تحكم كامل في إعدادات جودة البث</value>
+  </data>
+  <data name="_3_1_37" xml:space="preserve">
+    <value>القسيمة: ASUS PC Friend</value>
+  </data>
+  <data name="_3_1_38" xml:space="preserve">
+    <value>نشكرك على استخدام ASUS PC Friend Coupon. ابدأ GlideX واستخدم الوظائف المفتوحة التالية: </value>
+  </data>
+  <data name="_3_1_39" xml:space="preserve">
+    <value>ابدأ الآن</value>
+  </data>
+  <data name="_3_1_40" xml:space="preserve">
+    <value>فترة الصلاحية:</value>
+  </data>
+  <data name="_3_1_41" xml:space="preserve">
+    <value>تنتهي في</value>
+  </data>
+  <data name="_3_1_42" xml:space="preserve">
+    <value>مرحبًا بكم في  GlideX!</value>
+  </data>
+  <data name="_3_1_43" xml:space="preserve">
+    <value>أريد فقط أن أقدم مواصفات منتجي بدون هويتي</value>
+  </data>
+  <data name="_3_1_44" xml:space="preserve">
+    <value>تعليقاتك قيمة بالنسبة لنا, وهي أكبر حافز لنا لتطوير GlideX</value>
+  </data>
+  <data name="_3_1_45" xml:space="preserve">
+    <value>يرجى الإفصاح عن مشكلتك أو مقترحك بوضوح</value>
+  </data>
+  <data name="_3_1_46" xml:space="preserve">
+    <value>يرجى أيضًا تقديم المعلومات التالية عندما تواجه مشكلة في GlideX: 
+1.إصدار تطبيق المحمول GlideX (مثل: 2.0.1.0)
+2.  طراز هاتفك (مثل: هاتف ROG 3)
+</value>
+  </data>
+  <data name="_3_1_47" xml:space="preserve">
+    <value>إنك توافق بمجرد تحديد خانة اشعار الخصوصية بأن ASUS قد تجمع اسم طراز جهازك والرقم التسلسلي للجهاز وإصدار نظام تشغيل الجهاز واللغة وإصدار البرنامج وسجل الاستخدام غير الطبيعي للتطبيق  &lt;%GlideX App Name%&gt; (بما في ذلك الحالة ووقت الخطأ ووصف خطأ البرنامج) ومُعدل الرضا والتعليقات من هذا النموذج للمساعدة في تحسين مُنتجات وخدمات ASUS. قد نتواصل معك كذلك عبر عنوان بريدك الإلكتروني الذي حددته لحل المشكلات التي واجهتها أثناء استخدام تطبيق &lt;%GlideX App Name%&gt;.</value>
+  </data>
+  <data name="_3_1_48" xml:space="preserve">
+    <value>إرسال</value>
+  </data>
+  <data name="_3_1_49" xml:space="preserve">
+    <value>الخصوصية</value>
+  </data>
+  <data name="_3_1_50" xml:space="preserve">
+    <value>قيمنا!</value>
+  </data>
+  <data name="_3_1_51" xml:space="preserve">
+    <value>المرة القادمة</value>
+  </data>
+  <data name="_3_1_52" xml:space="preserve">
+    <value>لن يتم حفظ التعديلات عند مغادرة GlideX ، هل تريد المتابعة؟</value>
+  </data>
+  <data name="_3_1_53" xml:space="preserve">
+    <value>جار التحميل...</value>
+  </data>
+  <data name="_3_1_54" xml:space="preserve">
+    <value>فضلاً، لا تُغلق GlideX</value>
+  </data>
+  <data name="_3_1_55" xml:space="preserve">
+    <value>أحببته!</value>
+  </data>
+  <data name="_3_1_56" xml:space="preserve">
+    <value>يحتاج المزيد من التحسينات</value>
+  </data>
+  <data name="_3_1_57" xml:space="preserve">
+    <value>تخطي تسجيل الدخول والتعقيب الآن!</value>
+  </data>
+  <data name="_3_1_58" xml:space="preserve">
+    <value>دعنا نعرف ما يجول في خاطرك</value>
+  </data>
+  <data name="_3_1_59" xml:space="preserve">
+    <value>منتجي:</value>
+  </data>
+  <data name="_3_1_60" xml:space="preserve">
+    <value>قياسي</value>
+  </data>
+  <data name="_3_1_61" xml:space="preserve">
+    <value>الخطة الحالية: الكوبون - ASUS PC Friend</value>
+  </data>
+  <data name="_3_1_62" xml:space="preserve">
+    <value>الخطة الحالية: قياسية</value>
+  </data>
+  <data name="_3_1_63" xml:space="preserve">
+    <value>عملية تسجيل الدخول</value>
+  </data>
+  <data name="_3_1_64" xml:space="preserve">
+    <value>الشاشة على عدة أجهزة</value>
+  </data>
+  <data name="_3_1_65" xml:space="preserve">
+    <value>أخرى</value>
+  </data>
+  <data name="_3_1_66" xml:space="preserve">
+    <value>هناك مشاكل بالاشتراك</value>
+  </data>
+  <data name="_3_1_67" xml:space="preserve">
+    <value> شاشة النسخ المتطابق</value>
+  </data>
+  <data name="_3_1_68" xml:space="preserve">
+    <value>تم الإرسال! يرجى تقييمنا</value>
+  </data>
+  <data name="_3_1_69" xml:space="preserve">
+    <value>تم الإرسال</value>
+  </data>
+  <data name="_3_1_70" xml:space="preserve">
+    <value>تأكيد</value>
+  </data>
+  <data name="_3_1_71" xml:space="preserve">
+    <value>الرجاء تحديد فئة واحدة</value>
+  </data>
+  <data name="_3_1_72" xml:space="preserve">
+    <value>استخدم كود QR لتسجيل الدخول إلى التطبيق المحمول</value>
+  </data>
+  <data name="_3_2_1" xml:space="preserve">
+    <value>أنت الآن تستخدم GlideX &lt;%level%&gt;</value>
+  </data>
+  <data name="_3_2_2" xml:space="preserve">
+    <value>استمتع باتصال مستقر باستخدام كبل USB، والأفضل من ذلك، وداعًا لانقطاعات الإعلانات.</value>
+  </data>
+  <data name="_3_2_3" xml:space="preserve">
+    <value>اضبط على الوضع الديناميكي لاتصال أكثر سلاسة بالشبكة أو اضبطه على وضع جودة محتوى أعلى لعرض مفصل للشاشة المشتركة.</value>
+  </data>
+  <data name="_3_2_4" xml:space="preserve">
+    <value>استكشف قدرات جديدة بجهازك المحمول عبر تمكين النسخ المتطابق/تمديد الشاشة بهاتفك/جهازك اللوحي المتصل بجهاز الكمبيوتر في نفس الوقت. </value>
+  </data>
+  <data name="_3_2_5" xml:space="preserve">
+    <value>القسيمة قيد الاستخدام</value>
+  </data>
+  <data name="_3_2_6" xml:space="preserve">
+    <value>نشكرك على استخدام ASUS PC Friend Coupon. ابدأ GlideX واستخدم الوظائف المفتوحة التالية: </value>
+  </data>
+  <data name="_3_2_7" xml:space="preserve">
+    <value>إدارة الحساب</value>
+  </data>
+  <data name="_3_2_8" xml:space="preserve">
+    <value>إدارة حالة تسجيل الدخول للحصول على تجربة متسقة عبر GlideX وMyASUS.</value>
+  </data>
+  <data name="_3_2_9" xml:space="preserve">
+    <value>الحساب الحالي</value>
+  </data>
+  <data name="_3_2_10" xml:space="preserve">
+    <value>تسجيل الخروج من الحساب على جهاز الكمبيوتر الخاص بك؟</value>
+  </data>
+  <data name="_3_2_11" xml:space="preserve">
+    <value>ستحتاج إلى إدخال كلمة المرور الخاصة بك في المرة القادمة التي تريد فيها تسجيل الدخول.</value>
+  </data>
+  <data name="_3_2_12" xml:space="preserve">
+    <value>حذف هذا الحساب كم جهاز الكمبيوتر الخاص بك؟</value>
+  </data>
+  <data name="_3_2_13" xml:space="preserve">
+    <value>ستحتاج إلى إدخال حسابك وكلمة المرور في المرة التالية التي تريد فيها تسجيل الدخول.</value>
+  </data>
+  <data name="_3_2_14" xml:space="preserve">
+    <value>إزالة</value>
+  </data>
+  <data name="_3_2_15" xml:space="preserve">
+    <value>لم يتم تسجيل الدخول</value>
+  </data>
+  <data name="_3_2_16" xml:space="preserve">
+    <value>(الإصدار الدولي)</value>
+  </data>
+  <data name="_3_2_17" xml:space="preserve">
+    <value>(الإصدار الصيني)</value>
+  </data>
+  <data name="_3_2_18" xml:space="preserve">
+    <value>إدارة</value>
+  </data>
+  <data name="_3_2_19" xml:space="preserve">
+    <value>فشل تسجيل الدخول إلى الحساب</value>
+  </data>
+  <data name="_3_2_20" xml:space="preserve">
+    <value>عذرًا، لا يمكننا العثور على أي معلومات تسجيل تحت رقم التعريف هذا، يُرجى تسجيل الحساب أولاً.</value>
+  </data>
+  <data name="_3_2_21" xml:space="preserve">
+    <value>التسجيل</value>
+  </data>
+  <data name="_3_2_22" xml:space="preserve">
+    <value>تسجيل الخروج من الكل</value>
+  </data>
+  <data name="_3_2_23" xml:space="preserve">
+    <value>تم تسجيل الدخول</value>
+  </data>
+  <data name="_3_2_24" xml:space="preserve">
+    <value>جرب جودة البث الأساسي والوضع الديناميكي</value>
+  </data>
+  <data name="_3_3_1" xml:space="preserve">
+    <value>عروض خاصة</value>
+  </data>
+  <data name="_3_3_2" xml:space="preserve">
+    <value>احصل على 1 عام من الوصول إلى &lt;%GlideX App Name%&gt; Pro من خلال التسجيل في تحديد منتجات ASUS</value>
+  </data>
+  <data name="_3_3_3" xml:space="preserve">
+    <value>
+سجل واحصل على كوبون صديق  ASUS PC اليوم! العرض متاح لتحديد الحاسبات الشخصية لمستهلك ASUS ويشمل سنة مجانية للوصول إلى GlideX Pro.</value>
+  </data>
+  <data name="_3_3_4" xml:space="preserve">
+    <value>بدء تشغيل MyASUS</value>
+  </data>
+  <data name="_3_3_5" xml:space="preserve">
+    <value>بدء تشغيل 华硕管家（MyASUS）</value>
+  </data>
+  <data name="_3_3_6" xml:space="preserve">
+    <value>(+86) رقم الهاتف المحمول أو البريد الإلكتروني</value>
+  </data>
+  <data name="_3_3_7" xml:space="preserve">
+    <value>رقم الهاتف المحمول</value>
+  </data>
+  <data name="_3_3_8" xml:space="preserve">
+    <value>تسجيل الدخول بكلمة المرور</value>
+  </data>
+  <data name="_3_3_9" xml:space="preserve">
+    <value>تسجيل الدخول بكود التحقق</value>
+  </data>
+  <data name="_3_3_10" xml:space="preserve">
+    <value>تم الإرسال (&lt;*sec*&gt;)</value>
+  </data>
+  <data name="_3_3_11" xml:space="preserve">
+    <value>لقد تم إرسال رسالة نصية لرقم الهاتف +86&lt;*phone*&gt; في حالة عدم تلقيك الرسالة, تحقق من اتصالك بشبكة المحمول لديك.</value>
+  </data>
+  <data name="_3_3_12" xml:space="preserve">
+    <value>الحساب غير مسجل</value>
+  </data>
+  <data name="_3_3_13" xml:space="preserve">
+    <value>تعذر الحصول على كود التحقق</value>
+  </data>
+  <data name="_3_3_14" xml:space="preserve">
+    <value>تعذر الحصول على كود التحقق حاليا. حاول مرة أخرى خلال عشر دقائق أو غدًا</value>
+  </data>
+  <data name="_3_3_15" xml:space="preserve">
+    <value>يرجى ملء نموذج التسجيل.</value>
+  </data>
+  <data name="_3_3_16" xml:space="preserve">
+    <value>الشروط والأحكام تسري</value>
+  </data>
+  <data name="_3_3_17" xml:space="preserve">
+    <value>فشل تسجيل الدخول إلى الحساب</value>
+  </data>
+  <data name="_3_3_18" xml:space="preserve">
+    <value>خطأ بتنسيق البريد الإلكتروني</value>
+  </data>
+  <data name="_3_3_19" xml:space="preserve">
+    <value> لقد تم تسجيل رقم الهاتف بالفعل.</value>
+  </data>
+  <data name="_3_3_20" xml:space="preserve">
+    <value>يرجى التحقق من رقم هاتفك المحمول</value>
+  </data>
+  <data name="_3_3_21" xml:space="preserve">
+    <value>QQ</value>
+  </data>
+  <data name="_3_3_22" xml:space="preserve">
+    <value>Weibo</value>
+  </data>
+  <data name="_3_3_23" xml:space="preserve">
+    <value>WeChat</value>
+  </data>
+  <data name="_3_3_24" xml:space="preserve">
+    <value>أدخل رقم هاتف محمول صالح</value>
+  </data>
+  <data name="_3_3_25" xml:space="preserve">
+    <value>أدخل كود التحقق</value>
+  </data>
+  <data name="_3_3_26" xml:space="preserve">
+    <value>فشل تسجيل الدخول برقم الهاتف!</value>
+  </data>
+  <data name="_3_3_27" xml:space="preserve">
+    <value>هناك خطأ بالتحقق من Weibo</value>
+  </data>
+  <data name="_3_3_28" xml:space="preserve">
+    <value>تم إلغاء التحقق من Weibo</value>
+  </data>
+  <data name="_3_3_29" xml:space="preserve">
+    <value>رقم الهاتف المحمول غير صحيح</value>
+  </data>
+  <data name="_3_3_30" xml:space="preserve">
+    <value>أدخل رقم هاتفك المحمول</value>
+  </data>
+  <data name="_3_3_31" xml:space="preserve">
+    <value>تم إلغاء تسجيل الدخول إلى WeChat</value>
+  </data>
+  <data name="_3_3_32" xml:space="preserve">
+    <value>هناك خطأ بالتحقق من WeChat</value>
+  </data>
+  <data name="_3_3_33" xml:space="preserve">
+    <value>هناك خطأ في كود التحقق</value>
+  </data>
+  <data name="_3_3_34" xml:space="preserve">
+    <value>فشل الحصول على كود التحقق</value>
+  </data>
+  <data name="_3_3_35" xml:space="preserve">
+    <value>كود التحقق غير صحيح</value>
+  </data>
+  <data name="_3_3_36" xml:space="preserve">
+    <value>لقد تعذر علينا العثور على حساب يتوافق مع المعلومات المقدمة. حاول تسجيل دخولك مستخدمًا رقم هاتفك المحمول بدلاً من ذلك.</value>
+  </data>
+  <data name="_3_3_37" xml:space="preserve">
+    <value>إرسال</value>
+  </data>
+  <data name="_3_3_38" xml:space="preserve">
+    <value>يحتوي على ما لا يقل عن رقمين وحرف أبجدي وأحرف خاصة (بدون اللغة الصينية ومسافات)</value>
+  </data>
+  <data name="_4_1_1" xml:space="preserve">
+    <value>إعدادات</value>
+  </data>
+  <data name="_4_1_2" xml:space="preserve">
+    <value>نبذة عن</value>
+  </data>
+  <data name="_4_1_3" xml:space="preserve">
+    <value>الإصدار الحالي</value>
+  </data>
+  <data name="_4_1_4" xml:space="preserve">
+    <value>© ASUSTeK COMPUTER INC. All rights reserved.</value>
+  </data>
+  <data name="_4_1_5" xml:space="preserve">
+    <value>سياسة الخصوصية</value>
+  </data>
+  <data name="_4_1_6" xml:space="preserve">
+    <value>الأسئلة المتداولة</value>
+  </data>
+  <data name="_4_1_7" xml:space="preserve">
+    <value>الفيديوهات التعليمية</value>
+  </data>
+  <data name="_4_1_8" xml:space="preserve">
+    <value>عام</value>
+  </data>
+  <data name="_4_1_9" xml:space="preserve">
+    <value>ملاحظة</value>
+  </data>
+  <data name="_4_1_10" xml:space="preserve">
+    <value>يرجى الموافقة على "اتفاقية ترخيص المستخدم النهائي" و"شروط وأحكام" GlideX للاستمرار في استخدام GlideX.</value>
+  </data>
+  <data name="_4_1_11" xml:space="preserve">
+    <value>يرجى الموافقة على  إشعار الخصوصية للاستمرار في استخدام GlideX.</value>
+  </data>
+  <data name="_4_1_12" xml:space="preserve">
+    <value>رجوع</value>
+  </data>
+  <data name="_4_1_13" xml:space="preserve">
+    <value>رفض</value>
+  </data>
+  <data name="_4_1_14" xml:space="preserve">
+    <value>هل أنت متأكد أنك تريد الخروج من GlideX؟</value>
+  </data>
+  <data name="_4_1_15" xml:space="preserve">
+    <value>خروج</value>
+  </data>
+  <data name="_4_1_16" xml:space="preserve">
+    <value>نجح تسجيل الدخول</value>
+  </data>
+  <data name="_4_1_17" xml:space="preserve">
+    <value>موافق</value>
+  </data>
+  <data name="_4_1_18" xml:space="preserve">
+    <value>الإعلانات</value>
+  </data>
+  <data name="_4_1_19" xml:space="preserve">
+    <value>هل تود وضع علامة أمام كل الرسائل كمقروءة؟ </value>
+  </data>
+  <data name="_4_1_20" xml:space="preserve">
+    <value>لا توجد إعلانات في الوقت الحالي.</value>
+  </data>
+  <data name="_4_1_21" xml:space="preserve">
+    <value>جعل كل الرسائل كمقروءة</value>
+  </data>
+  <data name="_4_1_22" xml:space="preserve">
+    <value>قراءة الكل</value>
+  </data>
+  <data name="_4_1_23" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="_4_1_24" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="_4_1_25" xml:space="preserve">
+    <value>لا يوجد اتصال بالإنترنت </value>
+  </data>
+  <data name="_4_1_26" xml:space="preserve">
+    <value>تعذر تحميل الصفحة. يرجى التحقق من الاتصال لديك ثم المحاولة مرة أخرى.</value>
+  </data>
+  <data name="_4_1_27" xml:space="preserve">
+    <value>إعادة التحميل</value>
+  </data>
+  <data name="_4_2_1" xml:space="preserve">
+    <value>الشروط والسياسة</value>
+  </data>
+  <data name="_4_2_2" xml:space="preserve">
+    <value>شروط وأحكام  GlideX واتفاقية ترخيص المستخدم النهائي</value>
+  </data>
+  <data name="_4_2_3" xml:space="preserve">
+    <value>تُشكل اتفاقية ترخيص المستخدم النهائي (“EULA”) هذه اتفاقية سارية ومُلزمة بين ASUSTeK COMPUTER INC. (“ويُشار إليها ASUS“) وبينك كمُستخدم لاستخدام برامج ASUS (“ويُشار إليها بالبرامج“) ومُحددة كما هو منصوص أدناه. تقر صراحةً من خلال تثبيت البرنامج والاستمرار في استخدامه، أنك قد قرأت وفهمت وتوافق على الالتزام بشروط اتفاقية ترخيص المستخدم النهائي هذه وأي إصدارات جديدة بموجبها.</value>
+  </data>
+  <data name="_4_2_4" xml:space="preserve">
+    <value>1. يشير مصطلح "البرامج" إلى برامج ASUS التي تُقدم إلى مُنتجات ASUS أو بالتوافق معها بما في ذلك على سبيل المثال لا الحصر أي إصلاحات برمجية وتحديثات وترقيات وإصدارات معدلة في المستقبل.
+قد يكون مع البرنامج برامج ASUS أخرى أو برنامج خاص بطرف ثالث ومرخص بموجب واحد أو أكثر من تراخيص البرامج المجانية مفتوحة المصدر كما هو مذكور على الموقع www.opensource.org/licenses. تتوفر هذه البرامج المجانية مفتوحة المصدر لك فقط بموجب شروط اتفاقية الترخيص المعنية أو إشعار حقوق النشر المصاحب لها أو في FOSS ملفات(التراخيص مفتوحة المصدر) المرفقة مع البرنامج. لا تنطبق اتفاقية ترخيص المستخدم النهائي على مثل هذه البرامج المجانية مفتوحة المصدر.</value>
+  </data>
+  <data name="_4_2_5" xml:space="preserve">
+    <value>2. الترخيص وفقًا لشروط اتفاقية ترخيص المستخدم النهائي هذه، تمنحك ASUS بموجب هذا ترخيصًا محدودًا وشخصيًا وغير تجاري وغير حصري لاستخدام البرنامج فقط كما هو مضمن في مُنتجات ASUS. يجوز لك عمل نسخة واحدة من البرنامج في شكل قابل للقراءة آليًا لأغراض النسخ الاحتياطي فقط؛ شريطة أن تتضمن النسخة الاحتياطية جميع حقوق النشر أو إشعارات الملكية الأخرى الواردة في الأصل. لا يجوز ترخيص هذا الترخيص من الباطن، كما أنه غير قابل للتحويل إلا إلى شخص أو كيان تنقل إليه ملكية مُنتجات ASUS بالكامل تحتوي على البرنامج، شريطة أن تنقل بشكل دائم جميع الحقوق بموجب اتفاقية ترخيص المستخدم النهائي هذه ولا تحتفظ بأي نسخ كاملة أو جزئية من البرنامج، ويوافق المستلم على شروط اتفاقية ترخيص المستخدم النهائي هذه.</value>
+  </data>
+  <data name="_4_2_6" xml:space="preserve">
+    <value>3. القيود العكسية لا يجوز لك إجراء هندسة عكسية للبرنامج أو فك تشفيره أو تفكيكه أو السماح بما سبق أو تحريضه إلا إلى الحد الذي يحظر فيه القانون المعمول به بشكل مباشر تطبيق ما سبق.</value>
+  </data>
+  <data name="_4_2_7" xml:space="preserve">
+    <value>4. المعلومات السرية: يجب أن تلتزم بالحفاظ على المعلومات السرية للبرنامج وعدم إفشائها أو التسبب في كشفها كليًا أو جزئيًا بما في ذلك على سبيل المثال لا الحصر الأسرار التجارية والمواد المحمية بحقوق الطبع والنشر بأي شكل من الأشكال إلى أي طرف ثالث.</value>
+  </data>
+  <data name="_4_2_8" xml:space="preserve">
+    <value>5. حقوق الملكية الفكرية: أنت تقر وتوافق على أن جميع حقوق الملكية الفكرية وحقوق الملكية والمصالح أو الناشئة عن البرنامج هي ملكية حصرية لشركة ASUS أو الجهات المرخص لها من قبلها وستظل كذلك. لا شيء في اتفاقية ترخيص المستخدم النهائي يُقصد به نقل أي من حقوق الملكية الفكرية هذه إليك. يعد أي استخدام غير مصرح به لحقوق الملكية الفكرية انتهاكًا لاتفاقية ترخيص المستخدم النهائي (EULA) هذا فضلاً عن انتهاك قوانين الملكية الفكرية، بما في ذلك على سبيل المثال لا الحصر قوانين حقوق النشر وقوانين العلامات التجارية.
+بإرسال أي معلومات أو مواد أو أفكار أو مفاهيم أو تقنيات باستثناء المعلومات الشخصية إلى ASUS من خلال البرنامج ("التعليقات") ، فإنك تقر وتوافق على ما يلي: (1) يجب ألا تحتوي تعليقاتك على معلومات سرية أو خاصة؛ (2) لا تُعد ASUS  ملزمة بأي نوع من السرية، الصريحة أو الضمنية، فيما يتعلق بالتعليقات؛ (2) يحق لشركة ASUS استخدام التعليقات أو الكشف عنها  لأي غرض وبأي شكل من الأشكال في جميع أنحاء العالم، وفقًا لتقدير ASUS وحدها؛ (4) ستصبح تعليقاتك ملكًا لشركة ASUS دون أي التزام من ASUS تجاهك؛ و(5) لا يحق لك الحصول على أي تعويض أو رد للتكاليف من أي نوع.</value>
+  </data>
+  <data name="_4_2_9" xml:space="preserve">
+    <value>6. المدة والإنهاء تصبح اتفاقية ترخيص المستخدم النهائي سارية اعتبارًا من تاريخ تثبيت البرنامج. يجوز لك إنهاء هذا الترخيص في أي وقت عن طريق التوقف عن استخدام البرنامج وإزالة البرنامج من منتج ASUS. ستنهي ASUS حقك دون إشعار مسبق إذا اعتقدنا أنك لا تلتزم بأي شرط من شروط اتفاقية ترخيص المستخدم النهائي.</value>
+  </data>
+  <data name="_4_2_10" xml:space="preserve">
+    <value>7. إخلاء المسؤولية عن الضمان وتحديد المسؤولية: أنت تقر بأن البرنامج مقدم "كما هو". تتحمل أنت المسؤولية الكاملة المتعلقة بجودة هذا البرنامج وأدائه، بما في ذلك على سبيل المثال لا الحصر التكلفة المرتبطة بجميع الخدمات والإصلاحات الضرورية. لا تقدم ASUS -إلى الحد الذي يسمح به القانون- أي ضمانات، صريحة أو ضمنية، فيما يتعلق بهذا البرنامج أو أي معلومات أو مستندات أخرى مقدمة بموجب اتفاقية ترخيص المستخدم هذه أو لهذا البرنامج، بما في ذلك على سبيل المثال لا الحصر أي ضمان الرواج التجاري أو ضمان الملاءمة لغرض مُعين أو الإنتهاك أو الضمان الناتج عن الاستخدام أو مسار الآداء. لا تقدم ASUS أي ضمانات فيما يتعلق بالنتائج التي يمكن الحصول عليها من استخدام هذا البرنامج أو فيما يتعلق بدقة أو موثوقية أي معلومات يتم الحصول عليها من خلال هذا البرنامج. لا تسمح بعض السلطات القضائية باستثناء بعض الضمانات أو تحديد أو استبعاد المسؤولية عن أضرار معينة. وعليه، قد لا تنطبق عليك بعض شروط إخلاء المسؤولية وقيود المسؤولية المذكورة أعلاه.
+تظل المخاطر الكاملة الناشئة عن استخدام أو أداء هذا البرنامج أو كلا الأمرين معك. لا تتحمل ASUS أو أي من مسؤوليها أو مديريها أو موظفيها أو وكلائها أو الشركات التابعة لها بأي حال من الأحوال المسؤولية عن أي أضرار تبعية أو عرضية أو مباشرة أو غير مباشرة أو خاصة أو تأديبية أو أضرار أخرى (بما في ذلك فقدان الأرباح، أو الانقطاع، أو فقدان المعلومات، أو الخسائر النقدية الأخرى) الناشئة عن أو المتعلقة باتفاقية ترخيص المستخدم النهائي هذه أو استخدام أو عدم القدرة على استخدام البرنامج أو أي جزء منه، حتى إذا كانت شركة ASUS قد حظيت بإعلان . لا تسمح بعض السلطات القضائية باستثناء بعض الضمانات أو تحديد أو استبعاد المسؤولية عن أضرار معينة. وعليه، قد لا تنطبق عليك بعض شروط إخلاء المسؤولية وقيود المسؤولية المذكورة أعلاه.7. إخلاء المسؤولية عن الضمان وتحديد المسؤولية: أنت تقر بأن البرنامج مقدم "كما هو". تتحمل أنت المسؤولية الكاملة المتعلقة بجودة هذا البرنامج وأدائه، بما في ذلك على سبيل المثال لا الحصر التكلفة المرتبطة بجميع الخدمات والإصلاحات الضرورية. لا تقدم ASUS -إلى الحد الذي يسمح به القانون- أي ضمانات، صريحة أو ضمنية، فيما يتعلق بهذا البرنامج أو أي معلومات أو مستندات أخرى مقدمة بموجب اتفاقية ترخيص المستخدم هذه أو لهذا البرنامج، بما في ذلك على سبيل المثال لا الحصر أي ضمان الرواج التجاري أو ضمان الملاءمة لغرض مُعين أو الإنتهاك أو الضمان الناتج عن الاستخدام أو مسار الآداء. لا تقدم ASUS أي ضمانات فيما يتعلق بالنتائج التي يمكن الحصول عليها من استخدام هذا البرنامج أو فيما يتعلق بدقة أو موثوقية أي معلومات يتم الحصول عليها من خلال هذا البرنامج. لا تسمح بعض السلطات القضائية باستثناء بعض الضمانات أو تحديد أو استبعاد المسؤولية عن أضرار معينة. وعليه، قد لا تنطبق عليك بعض شروط إخلاء المسؤولية وقيود المسؤولية المذكورة أعلاه.
+تظل المخاطر الكاملة الناشئة عن استخدام أو أداء هذا البرنامج أو كلا الأمرين معك. لا تتحمل ASUS أو أي من مسؤوليها أو مديريها أو موظفيها أو وكلائها أو الشركات التابعة لها بأي حال من الأحوال المسؤولية عن أي أضرار تبعية أو عرضية أو مباشرة أو غير مباشرة أو خاصة أو تأديبية أو أضرار أخرى (بما في ذلك فقدان الأرباح، أو الانقطاع، أو فقدان المعلومات، أو الخسائر النقدية الأخرى) الناشئة عن أو المتعلقة باتفاقية ترخيص المستخدم النهائي هذه أو استخدام أو عدم القدرة على استخدام البرنامج أو أي جزء منه، حتى إذا كانت شركة ASUS قد حظيت بإعلان . لا تسمح بعض السلطات القضائية باستثناء بعض الضمانات أو تحديد أو استبعاد المسؤولية عن أضرار معينة. وعليه، قد لا تنطبق عليك بعض شروط إخلاء المسؤولية وقيود المسؤولية المذكورة أعلاه.</value>
+  </data>
+  <data name="_4_2_11" xml:space="preserve">
+    <value>8. التعويض: أنت توافق على الدفاع عن ASUS والشركات التابعة لها، ومقدمي الخدمات، والباعة المُباشرين، والموزعين، والمرخصين، والمسؤولين، والمديرين، والموظفين وتعويضهم وحمايتهم من الضرر، من وضد أي وجميع الخسائر والأضرار والمسؤوليات والنفقات الناشئة عن أية مطالبة أو المطالبة (بما في ذلك أتعاب المحاماة المعقولة وتكاليف المحكمة)، بسبب أو فيما يتعلق بانتهاكك لاتفاقية ترخيص المستخدم النهائي أو أي قانون أو لائحة معمول بها، أو حق طرف ثالث.</value>
+  </data>
+  <data name="_4_2_12" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_4_2_13" xml:space="preserve">
+    <value />
+  </data>
+  <data name="_4_2_14" xml:space="preserve">
+    <value>عمري أكبر من 20 سنة.</value>
+  </data>
+  <data name="_4_2_15" xml:space="preserve">
+    <value>شروط وأحكام GlideX</value>
+  </data>
+  <data name="_4_2_16" xml:space="preserve">
+    <value>اشعار ASUS</value>
+  </data>
+  <data name="_4_2_17" xml:space="preserve">
+    <value>كيفية توصيل الجهاز (الأجهزة) عبر Wi-Fi أو كبل USB</value>
+  </data>
+  <data name="_4_2_18" xml:space="preserve">
+    <value>كيفية تمكين تصحيح أخطاء USB لأجهزة Android</value>
+  </data>
+  <data name="_4_2_19" xml:space="preserve">
+    <value>المشاكل الشائعة في خدمة الاشتراك في GlideX</value>
+  </data>
+  <data name="_4_2_20" xml:space="preserve">
+    <value>مشاكل إقران Bluetooth</value>
+  </data>
+  <data name="_4_2_21" xml:space="preserve">
+    <value>كيفية استخدام  Screen Mirror PC Control</value>
+  </data>
+  <data name="_4_2_22" xml:space="preserve">
+    <value>نُرحب بك في خدمات GlideX (يُشار إليها فيما بعد بـ "نحن" أو "خدماتنا"). تسرد هذه المقالة الخدمات التي نقدمها وحقوقك، يرجى القراءة بعناية.\n\n</value>
+  </data>
+  <data name="_4_2_23" xml:space="preserve">
+    <value>I. مقدمة\n
+تتضمن خدمات GlideX تطبيقات وخدمات العملاء ويُشار إليها مُجتمعة باسم "الخدمات". حتى تتمكن من استخدام الخدمات، يجب أن توافق على الالتزام بشروط وأحكام الخدمات.\n\n
+</value>
+  </data>
+  <data name="_4_2_24" xml:space="preserve">
+    <value>تتكون خدمات &lt;%T&amp;C%&gt; من الإتفاقية بينك وبين GlideX. تشمل خدمات &lt;%T&amp;C%&gt; القواعد المنظمة في هذه المقالة وقواعد &lt;%termsofuse%&gt;,&lt;%PP%&gt;,&lt;%EULA%&gt; التي تنظمها الاتفاقيات الفردية الأخرى مثل التعليقات على الخدمة التي تقدمها أنت ومستخدموا تطبيق GlideX والتي تمت الموافقة عليها بمجرد &lt;%privacyofnotice%&gt; وشروط وأحكام الخدمة المحددة التي نقدمها وتقبلها من وقت لآخر. إذا كنت لا توافق على هذه الشروط والأحكام، فلن يكون لك الحق في الوصول إلى خدماتنا أو استخدامها. إذا كنت تستخدم خدماتنا، فهذا يعني أنك قد قبلت جميع الشروط والأحكام وتوافق على أن تصبح أحد الأطراف المتنازعة في هذه الاتفاقية. \n\n</value>
+  </data>
+  <data name="_4_2_25" xml:space="preserve">
+    <value>II. تغيير بنود الخدمة \n
+تخضع محتويات اتفاقية الخدمة هذه للتغيير عند إضافة وظيفة جديدة، والتقدم التكنولوجي الجديد والطلب القانوني. في حالة وجود تغيير كبير في اتفاقية الخدمة هذه، سوف نخطرك وفقًا لذلك بما في ذلك إشعار مشار إليه في الخدمات. عند الضرورة، سنطلب موافقتك أولاً. عندما نقوم بتغيير شروط وأحكام الخدمات، يمكنك أن تقرر ما إذا كنت ترغب في قبول البنود والشروط المعدلة أو التوقف عن استخدام خدماتنا أم لا. إذا واصلت استخدام الخدمات بعد أن يصبح التعديل ساريًا، فيُعتبر أنك قد قبلت الشروط والأحكام المعدلة وأنت على استعداد لقبول الالتزامات المنظمة. من ناحية أخرى، إذا كنت لا ترغب في الاستمرار في استخدام الخدمات وفقًا للإصدار الجديد من الاتفاقية، فيمكنك الاتصال بنا لإنهاء الاتفاقية. إذا تلقيت "خدمات تجريبية" أو "اشتراك مجاني" للخدمات عبر مزود طرف ثالث، فيجب عليك إخطار مزود الطرف الثالث بنفسك لإلغاء أو إنهاء "الخدمات التجريبية" أو "الاشتراك المجاني" للخدمات. \n\n
+</value>
+  </data>
+  <data name="_4_2_26" xml:space="preserve">
+    <value>III. استخدام خدمات GlideX \n
+لاستخدام الخدمات، يمكنك تثبيت تطبيق GlideX على الأجهزة مثل أجهزة الكمبيوتر والأجهزة اللوحية والهواتف الذكية. يجب أن تتحمل مسؤولية الحصول على الجهاز المذكور ودفع تكلفة الاتصال وحزمة الإرسال الرقمي. لن تتحمل GlideX المسؤولية عن توفير اتصال الإنترنت وخدمات الاتصالات الأخرى. \n\n
+</value>
+  </data>
+  <data name="_4_2_27" xml:space="preserve">
+    <value>نقترح عليك الإنضمام إلى عضوية GlideX للاستمتاع بالتجربة الكاملة. يمكنك الانتقال إلى تطبيق GlideX على الكمبيوتر&gt;[User Center]&gt;لتسجيل عضويتك أو الانتقال إلى تطبيق GlideX على الهاتف المحمول&gt; على القائمة الجانبية&gt;[Edit profile] &gt;لتسجيل عضويتك على الموقع الرسمي لـ ASUSTeK COMPUTER INC.  يمكنك استخدام الحزمة العامة لهذه الخدمة دون التسجيل كعضو في GlideX ولكن لن تتمكن من استخدام حزمة الاشتراك التي نقدمها. في الخدمات، سنشرح لك مدى توفر الخدمات التي يمكنك اختيارها: يشار إلى خدمات GlideX المجانية، حاليًا، بالحزمة العامة وحزم الاشتراك الأخرى بما في ذلك الإصدار المتقدم والإصدار الاحترافي والإصدار الرئيسي الذين يجب سداد مقابلهم. قد نقدم حزمة ترويجية خاصة أو خدمات تتضمن أهلية العضوية. وفقًا لاتفاقية الخدمة هذه، تحتفظ GlideX بالحق في تعديل أو إنهاء أو تغيير الخدمات التي نقدمها من وقت لآخر. \n\n</value>
+  </data>
+  <data name="_4_2_28" xml:space="preserve">
+    <value>لن يتم مشاركة حسابات أعضاء GlideX مع الآخرين، وإذا قمت بمشاركة معلومات عضويتك مع آخرين، فقد يتحكم هذا الشخص في حسابك أو يحصل على معلوماتك الشخصية ولا يمكننا تحديد صاحب الحساب الحقيقي. نحن لا نتحمل أي مسؤولية عن أي نتائج تنشأ عن الوضع المذكور. نوصي بشدة عدم مشاركة معلومات عضو GlideX مع أي شخص. \n\n</value>
+  </data>
+  <data name="_4_2_29" xml:space="preserve">
+    <value>IV. خدمات الاشتراك \n
+إذا كنت ترغب في الاستمتاع بخدمات الاشتراك، فيجب عليك تسجيل الدخول إلى إصدار عضوية GlideX الدولي للاشتراك في الخدمات. إذا قمت بتسجيل الدخول من إصدار الصين من 多屏中心 (GlideX)، فيمكنك فقط الاستمتاع بخدمات GlideX القياسية أو الحصول على قسائم التي تُصدرها ASUSTeK COMPUTER INC. بمجرد الاشتراك في خدماتنا, سيتم ربط عضوية GlideX الخاصة بك بالحساب الذي اشتركت عليه Google Play Store أو Apple App Store. حتى إذا قمت باستبدال هاتفك القديم بهاتف جديد أو قمت بإلغاء تثبيت تطبيقنا، طالما قمت بتسجيل الدخول كعضو في GlideX خلال وقت سريان الاشتراك، فلن تحتاج إلى إعادة الاشتراك في خدماتك. كل ما عليك فعله هو استخدام حساب له GlideX اشتراك فعال. يحكم متجر Google Play Store أو Apple App Store أي لوائح أو آليات تتعلق بأي شراء يتم داخل التطبيق.\n\n
+</value>
+  </data>
+  <data name="_4_2_30" xml:space="preserve">
+    <value>(1) التجديد; الإلغاء\n
+وفقًا لما ينظمه متجر Google Play أو Apple App Store، ما لم تقم بإلغاء اشتراكك في متجر Google Play أو Apple App Store في غضون 24 ساعة قبل نهاية الوقت الفعلي لخدمات الاشتراك المشتراة، فسيتم التجديد تلقائيًا لدفع رسوم " خدمات الاشتراك "التي تم شراؤها ودفعها لمزود الطرف الثالث. إذا قمت بإلغاء "خدمات الاشتراك" بعد اليوم الأخير من فعالية الخدمات المشتركة حاليًا، فسيتم إرجاعك إلى GlideX Standard (GlideX القياسي). \n\n
+</value>
+  </data>
+  <data name="_4_2_31" xml:space="preserve">
+    <value>(2) أسعار الحزمة \n
+سيتم عرض الحزم المشتراة على تطبيق GlideX بالعملة المحلية وفقًا للموقع الذي تسجل فيه متجر Google Play أو حساب Apple App Store، ويرجى الانتباه إلى أنه سيتم محاسبتك على الرسوم النهائية من حسابك وفقًا لموقعك المحدد على Google Play Store أو Apple App Store. \n\n
+</value>
+  </data>
+  <data name="_4_2_32" xml:space="preserve">
+    <value>(3) ترقية التطبيق \n
+عندما تقوم بترقية الحزمة الخاصة بك خلال فترة الاشتراك في "خدمات الاشتراك"، فسيتم احتساب المبلغ المخصص لشراء العناصر التي تم شراؤها سابقًا في المبلغ المتبقي لاشتراكك الجديد وفقًا للنسبة. سيقوم متجر Google Play Store أو Apple App Store بتحصيل مبلغ العنصر الذي تم شراؤه من تطبيقه وستصبح عملية الشراء سارية المفعول على الفور. \n\n
+</value>
+  </data>
+  <data name="_4_2_33" xml:space="preserve">
+    <value>(4) منطقة مبيعات خدمة الاشتراك \n
+تدعم خدمات GlideX حاليًا الشراء داخل التطبيق ولكن وفقًا لمنطقة الاشتراك في متجر Google Play أو Apple App Store الذي يشترك فيه العضو، تحتفظ GlideX بالحق في تعديل أو إنهاء أو تغيير حقوق الخدمة المقدمة في مناطق مختلفة بما في ذلك ما يلي: \n
+</value>
+  </data>
+  <data name="_4_2_34" xml:space="preserve">
+    <value>1. متجر Google Play Store:\nألبانيا, أستراليا, النمسا, البحرين, بلاروسيا, بلجيكا, بلغاريا, كندا, تشيلي, كرواتيا, جمهورية التشيك, الدينمارك, إستونيا, فنلندا, فرنسا, ألمانيا, اليونان, المجر, الهند, أندونسيا, أيرلندا, إيطاليا, لاتفيا, ليختنشتاين, لكسمبرج, ماليزيا, مالطا, المغرب, هولندا, نيوزيلندا, النرويج, بولندا, البرتغال, رومنيا, روسيا, المملكة العربية السعودية, صربيا, سنغافورة, سلوفكيا, سلوفنيا, جنوب أفريقيا, كوريا الجنوبية, إسبانيا, السويد, تايوان, تركيا, الإمارات العربية المتحدة, الولايات المتحدة, المغرب ، ليختنشتاين.
+</value>
+  </data>
+  <data name="_4_2_35" xml:space="preserve">
+    <value>2. متجر Apple App Store:\nألبانيا, أرمنيا, أستراليا, النمسا, البحرين, بلاروسيا, بلجيكا, البوسنة والهرسيك, بلغاريا, كندا, تشيلي, كلومبيا, كرواتيا, قبرص, جمهورية التشيك, الدينمارك, إستونيا, فنلندا, فرنسا, ألمانيا, اليونان, المجر, الهند, أندونسيا, أيرلندا, إيطاليا, كوسفو,  لاتفيا, لتوانيا, ليختنشتاين, لكسمبرج, ماليزيا, مالطا, المكسيك, مولدوفيا, هولندا, نيوزيلندا, النرويج, بولندا, البرتغال, رومنيا, روسيا, المملكة العربية السعودية, صربيا, سنغافورة, سلوفكيا, سلوفنيا, جنوب أفريقيا, كوريا الجنوبية, إسبانيا, السويد, سويسرا,تايوان, تركيا, الإمارات العربية المتحدة, المملكة المتحدة, الولايات المتحدة, أوزباكستان.
+</value>
+  </data>
+  <data name="_4_2_36" xml:space="preserve">
+    <value>5. حوافز أو قسيمة حصرية للأعضاء \n
+يمكن للأعضاء المشاركة في الأحداث الخاصة التي أطلقتها ASUSTeK COMPUTER INC. من وقت لآخر للحصول على قسائم من حزم الخدمة يمكن السماح باستخدام قسيمة واحدة فقط في كل مرة ولا يجوز دمجها عند استخدام حوافز GlideX الأخرى. لا يتم قبول الإلغاء بعد أن تصبح القسيمة سارية المفعول. بالإضافة إلى ذلك، خلال فترة سريان القسيمة، يمكن للأعضاء الاشتراك في خدماتهم على Google Play Store أو Apple App Store. بمجرد تأكيد الاشتراك ، ستصبح القسيمة غير فعالة على الفور, لا يمكن حجز القسيمة أو تحويلها لمبلغ مالي; وعلى النقيض، إذا كان الأعضاء لا يزالون يتمتعون بالاشتراك الذي يقدمه متجر Google Play أو Apple App Store في الوقت الحالي، فلا يمكنهم تفعيل القسيمة للاستخدامات. تحتفظ ASUS بالحق في أن يكون لها الكلمة الأخيرة بشأن نشاط الاسترداد وتعديل محتويات الحدث واستخدام قواعد الحوافز والقسيمة. \n\n
+</value>
+  </data>
+  <data name="_4_2_37" xml:space="preserve">
+    <value>VI. السعي التجاري المثابر لـGlideX   \n
+لقد كرسنا جهودنا لتحسين تجربة المستخدم وجودة الخدمات. أنت توافق على منحنا الحقوق أدناه: (1) تزويدك بالفعاليات الترويجية ذات الصلة بالخدمات؛ (2) نوفر لك محتويات تجارية مدفوعة من قبل الطرف الثالث ولا نقدم أي بيانات أو نقدم أي ضمانات أو نتحمل أي مسؤوليات وأي نوع من الخسارة أو الضرر الناشئ عن أي معلومات تجارية أو غيرها من المعلومات التجارية الخاصة بالطرف الثالث بناءً على المعلومات المقدمة من قبل الطرف الثالث. بالإضافة إلى ذلك، عندما تتفاعل مع أي عملاء تجاريين من خلال الخدمات بما في ذلك على سبيل المثال لا الحصر الثقة في الإعلان التجاري الذي يحدث أثناء المعاملات التجارية والمسؤوليات القانونية، يجب أن تكون العلاقة موجودة فقط بينك وبين العملاء التجاريين. إذا كنت ترغب في إلغاء الدفعة التجارية، فأنت تدفع مقابل الاشتراك في حزمة الخدمة أو الحصول على الحافز أو القسيمة لإزالة الإعلان. \n\n
+</value>
+  </data>
+  <data name="_4_2_38" xml:space="preserve">
+    <value>7. القيود على الخدمة والتعديلات \n
+تبذل GlideX أقصى ما بوسعها للحفاظ على عمليات خدماتها. ولكن عند وجود صعوبة فنية محددة، أو الاختبار أو الترقية، فقد تحدث انقطاعات مؤقتة بشكل دوري. تحتفظ GlideX بالحق في تعديل أو تعليق (بشكل مؤقت أو دائم) وظائف الخدمة بانتظام ومن وقت لآخر لسبب منطقي وسبب قانوني وإداري، وقد تقوم GlideX بإخطارك مسبقًا ولا تتحمل أي مسؤوليات قانونية تجاهك عند حدوث ذلك الموقف المذكور. باستثناء الحظر بموجب القوانين، قد تتضمن الأسباب المنطقية إصلاحات أو صيانة أو تحسين الوظيفة الحالية المطلوبة لمقاطعة خدمات GlideX أو وظائف أخرى أو تعديلها أو تعليقها أو إضافة وظائف جديدة إلى الخدمات أو تحقيق التقدم العلمي أو التكنولوجي أو ضمان التشغيل والسلامة. \n\n
+</value>
+  </data>
+  <data name="_4_2_39" xml:space="preserve">
+    <value>على الرغم مما سبق ذكره، إذا كنت قد سددت دفعة مسبقة إلى GlideX، ومع ذلك فإن GlideX خلال فترة الدفع المسبق تنهي الخدمات نهائيًا، فستقوم GlideX برد المبلغ المدفوع مسبقًا لفترة الدفع المسبق. يجب أن تتفهم وتوافق وتقبل الجهود العقلانية التي تبذلها GlideX على الرغم من أن GlideX ليست ملزمة بالحفاظ على الخدمات أو دعمها أو ترقيتها أو تجديدها أو تقديم كل أو أي محتويات محددة عبر الخدمات.\n\n
+ينفذ هذا الفصل حسب نطاق القوانين. \n\n
+</value>
+  </data>
+  <data name="_4_2_40" xml:space="preserve">
+    <value>8. طرق الإشعارات المرسلة إلى مستخدمي الخدمات \n
+هذا في حال وجود أي أسباب أخرى تجعلنا نطلب منك التأكد من صحة وسلامة وحالة المعلومات الشخصية للمشترك. قد نرسل إليك إشعارًا عبر البريد الإلكتروني (البريد الذي قمت بإعداده في حساب GlideX الخاص بك) أو البريد العادي أو من خلال الإعلانات التي يتم نشرها على مواقع الويب ذات الصلة التي تأثرت بالخدمات. \n\n
+</value>
+  </data>
+  <data name="_4_2_41" xml:space="preserve">
+    <value>8. اتصل بنا 
+إذا كان لديك أي أسئلة بخصوص خدمات GlideX (أو غيرها من المنتجات أو الخدمات) أو هذه الاتفاقية، يرجى زيارة موقع ASUSTeK COMPUTER INC.  أو اتصل بـ &lt;%service%&gt;. بالإضافة إلى ذلك، إذا قمت بإرسال أي أفكار أو اقتراحات أو مستندات و/أو اقتراح ذي صلة (يشار إليه فيما يلي باسم "مساهمة") إلى GlideX من خلال تعليقات الرأي، أو منتدى مستخدم الطرف الثالث، أو قناة أو آلية أخرى، فإنك تؤكد وتوافق على ما يلي: (1) لا تحتوي مساهمتك على أي معلومات سرية أو معلومات ذات قيمة خاصة؛ (2) فيما يتعلق بالمساهمة، لن تتحمل GLIDEX أي مسؤولية صريحة أو ضمنية عن سريتها؛ (3) تتمتع GLIDEX بالحق لأي غرض وبأي طريقة لاستخدام المساهمة أو الكشف عنها (أو اختيار عدم استخدام أو الكشف عن) المساهمة؛ (4) قد تفكر GLIDEX أو تطور شيئًا مشابهًا لمساهمتك؛ (5) ستصبح مساهمتك تلقائيًا من أصول GLIDEX ولن تتحمل GLIDEX أي مسؤولية تجاهك؛ و(6) في جميع الحالات، لا يحق لك مطالبة GLIDEX بدفع أي رسوم لك أو مطالبة GLIDEX بتعويضك أو رد أموالك بأي شكل من الأشكال. \n\n
+</value>
+  </data>
+  <data name="_4_2_42" xml:space="preserve">
+    <value>شكرًا لك على قراءة شروط وأحكام الاتفاقية واستمتع بـ GlideX. \n
+©ASUSTeK COMPUTER INC. ‫‫جميع الحقوق محفوظة.‬‬
+</value>
+  </data>
+  <data name="_4_2_43" xml:space="preserve">
+    <value>نُرحب باستخدام التطبيقات الخاصة بـ ASUS &lt;%GlideX App Name%&gt; ("this Software")! برجاء قراءة ما يلي بعناية:</value>
+  </data>
+  <data name="_4_2_44" xml:space="preserve">
+    <value>لتزويدك بخطة اشتراك لاستخدام الميزات المتقدمة لهذا البرنامج، وتحسين منتجات وخدمات ASUSو تعزيزها، وإجراء استبيانات وتحليل لتجربة المستخدم، نقوم بتطوير وتقييم خدمات ووظائف ASUSالجديدة وفقًا لتلك المعلومات التي تم جمعها. قد نوصي بمحتوى خدمة يناسبك بناءً على تجربة استخدامك السابق لهذا البرنامج. عندما تبدء استخدام البرنامج، ستبدء ASUS في جمع البيانات عبر البرنامج حسب الأحوال المُختلفة التالية:</value>
+  </data>
+  <data name="_4_2_45" xml:space="preserve">
+    <value>1. عند بدء استخدام هذا البرنامج، يجوز لـ ASUS جمع البيانات التالية التي لن يكون بامكانها تحديد شخصيتك من خلال هذا البرنامج:</value>
+  </data>
+  <data name="_4_2_46" xml:space="preserve">
+    <value>(أ) تسجيل البيانات: البيانات المتعلقة بالتسجيل لمنتجك، بما في ذلك طراز المنتج ونوع نظام التشغيل وإصداره.</value>
+  </data>
+  <data name="_4_2_47" xml:space="preserve">
+    <value>(ب) بيانات التطبيق: سلوكك وتفاعلك مع هذا البرنامج، بما في ذلك إصدار هذا البرنامج، ووقت تثبيت هذا البرنامج وإلغاء تثبيت ، ووقت تسجيل الدخول والخروج من هذا البرنامج، وتكرار استخدام هذا البرنامج وعدد مرات استخدامه البرنامج، وعدد المرات والوقت الذي فتحت فيه وأغلقت هذا البرنامج وصفحاته.</value>
+  </data>
+  <data name="_4_2_48" xml:space="preserve">
+    <value>2. عند تحديد خانة &lt;&lt;%I agree%&gt;&gt; بالأسفل، فإنك توافق على السماح لشركة ASUS بجمع البيانات التالية عنك عند شراء خطة اشتراك مختلفة بهذا البرنامج لاستخدام خصائص مُتقدمة:</value>
+  </data>
+  <data name="_4_2_49" xml:space="preserve">
+    <value>2. When you check &lt;&lt;%I agree%&gt;&gt; below, you consent to allow ASUS to collect the following information that you agree to when you purchase different subscription plans in this software to use the advanced features. لحماية خصوصية القُصر، لن نجمع معلومات خصوصية الأطفال.</value>
+  </data>
+  <data name="_4_2_50" xml:space="preserve">
+    <value>(أ) معلومات الاشتراك: تعني معلومات الاشتراك المتعلقة بخطة الاشتراك التي حددتها، بما في ذلك اسم خطة الاشتراك ونوع الاشتراك وحالة الاشتراك (مثل التجديد التلقائي) ومبلغ الدفع وعملة الدفع وتاريخ ووقت بدء الاشتراك ومنصة تخزين الدفع تختار (مثل متجر Google Play أو App Store) ونوع جهازك وعنوان بريدك الإلكتروني.</value>
+  </data>
+  <data name="_4_2_51" xml:space="preserve">
+    <value>لاحظ أنه عند شراء خطة اشتراك في هذا البرنامج، لن تقوم ASUS بجمع معلومات بطاقتك الائتمانية لهذا الغرض. سيتم جمع معلومات بطاقة الائتمان التي استخدمتها للشراء بواسطة متجر Google Play أو App Store (وفقًا لنوع الجهاز الذي تستخدمه) لجمعها ومعالجتها واستخدامها. إذا كانت لديك أي أسئلة حول جمع معلومات بطاقة الائتمان الخاصة بك ومعالجتها واستخدامها، نوصيك بالاتصال بـ Google Play Store و App Store مباشرة.</value>
+  </data>
+  <data name="_4_2_52" xml:space="preserve">
+    <value>(ب) بيانات الموقع: بيانات الموقع المتعلقة بمنتجك أو هذا البرنامج، بما في ذلك المنطقة التي تختار فيها خطة الاشتراك والدفع.</value>
+  </data>
+  <data name="_4_2_53" xml:space="preserve">
+    <value>3. التسجيل كعضو ASUS: سيطلب هذا البرنامج منك تسجيل الدخول بحساب ASUS/ROG الخاص بك قبل أن تتمكن من استخدام الخصائص المُتقدمة. لمزيد من المعلومات حول كيفية تسجيل الدخول أو التسجيل في حساب ASUS/ROG، انتقل لصفحة تسجيل الدخول أو التسجيل في حساب ASUS/ROG.</value>
+  </data>
+  <data name="_4_2_54" xml:space="preserve">
+    <value>4. خدمة الإعلانات: إذا كنت لم تشتري خطة اشتراك لهذا البرنامج, فقد تشاهد إعلانات مقدمة من قبل شركة Google. ستجمع Google معلوماتك الشخصية, مثل: معرفات الإعلانات المحمولة لتقدم لك إعلانات مخصصة لك أو إعلانات غير مخصصة لك. و/أو إجراء تقييم حول تأثير الإعلانات. إذا كنت تود معرفة كيفية جمع شركة  Google لبياناتك الشخصية واستخدامها في خدمات الإعلانات, يرجى الاتصال بـ Google.</value>
+  </data>
+  <data name="_4_2_55" xml:space="preserve">
+    <value>5. تتعهد ASUS بحماية خصوصيتك واحترامها. لمعرفة المزيد حول كيفية حماية ASUS لخصوصيتك، يرجى زيارة "سياسة الخصوصية" الخاصة بـ ASUS.</value>
+  </data>
+  <data name="_4_2_56" xml:space="preserve">
+    <value>عمري أكبر من 16 عامًا</value>
+  </data>
+  <data name="_4_2_57" xml:space="preserve">
+    <value>عمري أكبر من 18 عامًا</value>
+  </data>
+  <data name="_4_2_58" xml:space="preserve">
+    <value>أقر وأوافق على ما ورد أعلاه.</value>
+  </data>
+  <data name="_4_2_59" xml:space="preserve">
+    <value>لا أوافق على ما ورد أعلاه.</value>
+  </data>
+  <data name="_4_2_60" xml:space="preserve">
+    <value>دليل مستخدم GlideX</value>
+  </data>
+  <data name="_4_2_62" xml:space="preserve">
+    <value>نهاية اتفاقية ترخيص المستخدم</value>
+  </data>
+  <data name="_4_2_63" xml:space="preserve">
+    <value>كيفية التحول إلى نطاق شبكة 5 جيجا هرتز</value>
+  </data>
+  <data name="_4_2_64" xml:space="preserve">
+    <value>إشعار شروط الاستخدام</value>
+  </data>
+  <data name="_4_2_65" xml:space="preserve">
+    <value>خدمة العملاء</value>
+  </data>
+  <data name="_4_2_66" xml:space="preserve">
+    <value>أوافق</value>
+  </data>
+  <data name="_4_2_67" xml:space="preserve">
+    <value>لا أوافق</value>
+  </data>
+  <data name="_4_2_68" xml:space="preserve">
+    <value>نهاية اتفاقية ترخيص المستخدم</value>
+  </data>
+  <data name="_4_2_69" xml:space="preserve">
+    <value>في حالة التداخل, يتم الإحتكام لشروط وأحكام نسخة اللغة الإنجليزية.</value>
+  </data>
+  <data name="_4_2_70" xml:space="preserve">
+    <value>هل تود التحول إلى الخدمة المحددة؟</value>
+  </data>
+  <data name="_4_2_71" xml:space="preserve">
+    <value>هل تود التحول إلى الخدمة المحددة؟ سيؤدي هذا إلى تسجيل خروجك تلقائيًا من حسابك الحالي ويطلب منك تسجيل الدخول مستخدمًا حسابًا أسفل الخدمة المحددة.</value>
+  </data>
+  <data name="_4_3_1" xml:space="preserve">
+    <value>كيف يتمكن  GlideX من عكس شاشتك وتمديدها</value>
+  </data>
+  <data name="_6_1_1" xml:space="preserve">
+    <value>تشغيل تطبيقات الهاتف المحمول على شاشة كبيرة.</value>
+  </data>
+  <data name="_6_1_2" xml:space="preserve">
+    <value>يمكنك تشغيل التطبيقات من الأجهزة التي تعمل بنظام Android أو iOS كما لو كانت أحد البرامج على جهاز الكمبيوتر. والأهم من ذلك، يمكنك جعلها أكبر!</value>
+  </data>
+  <data name="_6_1_3" xml:space="preserve">
+    <value>وسع منطقة عملك ومساحة اللعب</value>
+  </data>
+  <data name="_6_1_4" xml:space="preserve">
+    <value>قم بإنشاء مساحة أكبر عن طريق تحويل جهازك اللوحي إلى شاشة ثانوية لتوفير مزيد من الراحة للشاشة المزدوجة أثناء التنقل!</value>
+  </data>
+  <data name="_6_1_5" xml:space="preserve">
+    <value>تخطي</value>
+  </data>
+  <data name="_7_1_1" xml:space="preserve">
+    <value>GlideX</value>
+  </data>
+  <data name="_7_1_2" xml:space="preserve">
+    <value>多屏中心 (GlideX)</value>
+  </data>
+  <data name="_8_1_1" xml:space="preserve">
+    <value>قائمة الأجهزة</value>
+  </data>
+  <data name="_8_1_2" xml:space="preserve">
+    <value>صل أحد الأجهزة لتمكين الانعكاس</value>
+  </data>
+  <data name="_8_1_3" xml:space="preserve">
+    <value>صل أحد الأجهزة لتمكين التمديد</value>
+  </data>
+  <data name="_8_1_4" xml:space="preserve">
+    <value>تعرف على المزيد حول ماهية نطاق الشبكة.</value>
+  </data>
+  <data name="_8_1_5" xml:space="preserve">
+    <value>تعرف على المزيد حول اتفاقية ترخيص المستخدم النهائي وT&amp;C</value>
+  </data>
+  <data name="_8_1_6" xml:space="preserve">
+    <value>تعرف على المزيد حول بيان الخصوصية</value>
+  </data>
+  <data name="_8_1_7" xml:space="preserve">
+    <value>توجه إلى مركز المستخدم</value>
+  </data>
+  <data name="_8_1_8" xml:space="preserve">
+    <value>توسيع الإعدادات</value>
+  </data>
+  <data name="_8_1_9" xml:space="preserve">
+    <value>طي الإعدادات</value>
+  </data>
+  <data name="_8_1_10" xml:space="preserve">
+    <value>توسيع البيان</value>
+  </data>
+  <data name="_8_1_11" xml:space="preserve">
+    <value>توسيع قائمة الحساب</value>
+  </data>
+  <data name="_8_1_12" xml:space="preserve">
+    <value>حدد جودة البث</value>
+  </data>
+  <data name="_8_1_13" xml:space="preserve">
+    <value>الحصول على تطبيق المحمول الذي تم تسجيل الدخول إليه - الطريقة 1</value>
+  </data>
+  <data name="_8_1_14" xml:space="preserve">
+    <value>الحصول على تطبيق المحمول الذي تم تسجيل الدخول إليه - الطريقة 2</value>
+  </data>
+  <data name="_8_1_15" xml:space="preserve">
+    <value>عرض كلمة المرور</value>
+  </data>
+  <data name="_8_1_16" xml:space="preserve">
+    <value>كتابة كلمة المرور</value>
+  </data>
+  <data name="_8_1_17" xml:space="preserve">
+    <value>حدد تاريخ ميلادك</value>
+  </data>
+  <data name="_8_1_18" xml:space="preserve">
+    <value>حدد منطقتك السكنية</value>
+  </data>
+  <data name="_8_1_19" xml:space="preserve">
+    <value>سياسة خصوصية ASUS</value>
+  </data>
+  <data name="_8_1_20" xml:space="preserve">
+    <value>سياسة خصوصية ASUS السحابية</value>
+  </data>
+  <data name="_8_1_21" xml:space="preserve">
+    <value>أوافق على سياسة خصوصية ASUS.</value>
+  </data>
+  <data name="_8_1_22" xml:space="preserve">
+    <value>أوافق على سياسة خصوصية ASUS السحابية.</value>
+  </data>
+  <data name="_8_1_23" xml:space="preserve">
+    <value>الموافقة على بيان الخصوصية.</value>
+  </data>
+  <data name="_8_1_24" xml:space="preserve">
+    <value>اقرأ بيان الخصوصية</value>
+  </data>
+  <data name="_8_1_25" xml:space="preserve">
+    <value>اكتب مشكلتك أو مقترحك.</value>
+  </data>
+  <data name="_8_1_26" xml:space="preserve">
+    <value>نشط كود QR (الاستجابة السريعة).</value>
+  </data>
+  <data name="_8_1_27" xml:space="preserve">
+    <value>احصل على (مكافأة)</value>
+  </data>
+  <data name="_8_1_28" xml:space="preserve">
+    <value>قم بتوسيع القائمة الجانبية</value>
+  </data>
+  <data name="_8_1_29" xml:space="preserve">
+    <value>شاشة العرض</value>
+  </data>
+  <data name="_8_1_30" xml:space="preserve">
+    <value>عرض المزيد</value>
+  </data>
+</root>
